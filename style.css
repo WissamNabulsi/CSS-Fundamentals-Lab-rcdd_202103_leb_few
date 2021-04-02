@@ -35,3 +35,9 @@ p #featured-property {
   display: block;
   float: left;
 }
+
+div {
+  text-align: center;
+  background-color: red;
+  
+}
