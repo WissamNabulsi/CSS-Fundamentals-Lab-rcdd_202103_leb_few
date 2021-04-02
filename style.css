@@ -1,7 +1,9 @@
 header {
   align-items: : center;
 }
-
+h1 {
+  color: red;
+}
 
 
 body {
